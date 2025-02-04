@@ -24,11 +24,4 @@ image:
 </p>
 </div><!-- /.tile -->
 
-<div class="tile">
-  <h2 class="post-title" style="background-color:Transparent; text-align: left; width: 100%;" itemprop="headline"><a href="https://twitter.com/MatthewG07" class="twitter-follow-button" data-show-count="false">Follow @MatthewG07</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></h2>
-  <p class="post-excerpt" align="center" style="width: 100%;">
-<a class="twitter-timeline" href="https://twitter.com/MatthewG07">Tweets from @MatthewG07</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-</div><!-- /.tile -->
-
 </div><!-- /.tiles -->
