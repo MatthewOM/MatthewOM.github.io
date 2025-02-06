@@ -14,6 +14,12 @@ share: true
 
 {% include toc.html %}
 
+## 2025
+
+### Winter 2025
+- The Global diversity patterns paper with [Patrick Stephens](https://experts.okstate.edu/patrick.stephens), [Maxwell Farrell](https://farrell.glasgow.ac.uk), [Jonathan Davies](https://biodiversity.ubc.ca/people/faculty/jonathan-davies), [John Gittleman](https://ecology.uga.edu/directory/john-gittleman/), [Shai Meiri](https://shaimeirilab.weebly.com), [Uri Roll](http://www.uriroll.com) and [John Wiens](https://eeb.arizona.edu/person/john-wiens) was accepted in <i>Systematic Biology</i>.
+- Resubmitted the Global diversity patterns manuscript after minor revisions and two rounds of review.
+
 ## 2024
 
 ### Winter 2024
