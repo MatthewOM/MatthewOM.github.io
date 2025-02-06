@@ -32,7 +32,7 @@ Thank you for showing interest in my research!
         <td><b>Coverage</b></td>
         <td><b>Citations</b></td>
     </tr>
-        <tr>
+    <tr>
         <td>7</td>
         <td>2025</td>
         <td>Stephens, PR, MJ Farell, TJ Davies, JL Gittleman, S Meiri, <b>MO Moreira</b>, U Roll & JJ Wiens. Global diversity patterns are explained by diversification rates and dispersal at ancient, not shallow, timescales. <b><i>Systematic Biology</i></b>.</td>
@@ -40,8 +40,7 @@ Thank you for showing interest in my research!
         <td> </td>
         <td> </td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
         <td>6</td>
         <td>2024</td>
         <td><b>Moreira, MO</b>, JJ Wiens, C Fonseca & D Rojas. Climatic-niche breadth, niche position, and
@@ -50,7 +49,7 @@ speciation in lizards and snakes. <b><i>Journal of Biogeography</i></b>, 51(6): 
         <td> <div data-badge-type="donut" data-doi="10.1111/jbi.14802" data-hide-no-mentions="true" class="altmetric-embed"></div> </td>
         <td> <span class="__dimensions_badge_embed__" data-doi="10.1111/jbi.14802" data-style="small_circle" data-hide-zero-citations="true" data-legend="hover-left"></span> </td>
     </tr>
-        <tr>
+    <tr>
         <td>5</td>
         <td>2023</td>
         <td><b>Moreira, MO</b>, C Fonseca & D Rojas. Potential persistence of high-mountain lizards. <b><i>Ecological Research</i></b>, 38(5): 676-689.</td>
@@ -58,7 +57,7 @@ speciation in lizards and snakes. <b><i>Journal of Biogeography</i></b>, 51(6): 
         <td> <div data-badge-type="donut" data-doi="10.1111/1440-1703.12410" data-hide-no-mentions="true" class="altmetric-embed"></div> </td>
         <td> <span class="__dimensions_badge_embed__" data-doi="10.1111/1440-1703.12410" data-style="small_circle" data-hide-zero-citations="true" data-legend="hover-left"></span> </td>
     </tr>
-        <tr>
+    <tr>
         <td>4</td>
         <td>2022</td>
         <td><b>Moreira, MO</b>, C Fonseca & D Rojas. <i>ES-sim</i>-GLM, a multiple regression trait-dependent diversification approach. <b><i>Evolutionary Biology</i></b>, 49(1): 92-101.</td>
@@ -66,7 +65,7 @@ speciation in lizards and snakes. <b><i>Journal of Biogeography</i></b>, 51(6): 
         <td> <div data-badge-type="donut" data-doi="10.1007/s11692-021-09557-7" data-hide-no-mentions="true" class="altmetric-embed"></div> </td>
         <td> <span class="__dimensions_badge_embed__" data-doi="10.1007/s11692-021-09557-7" data-style="small_circle" data-hide-zero-citations="true" data-legend="hover-left"></span> </td>
     </tr>
-      <tr>
+    <tr>
         <td>3</td>
         <td>2021</td>
         <td><b>Moreira, MO</b>, Y-F Qu & JJ Wiens. Large-scale evolution of body temperatures in land vertebrates. <b><i>Evolution Letters</i></b>, 5(5): 484-494.</td>
