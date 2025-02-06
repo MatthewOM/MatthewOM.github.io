@@ -33,6 +33,15 @@ Thank you for showing interest in my research!
         <td><b>Citations</b></td>
     </tr>
         <tr>
+        <td>7</td>
+        <td>2025</td>
+        <td>Stephens, PR, MJ Farell, TJ Davies, JL Gittleman, S Meiri,<b>MO Moreira</b>, U Roll & JJ Wiens. Global diversity patterns are explained by diversification rates and dispersal at ancient, not shallow, timescales. <b><i>Systematic Biology</i></b>.</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    </tr>
+        <tr>
         <td>6</td>
         <td>2024</td>
         <td><b>Moreira, MO</b>, JJ Wiens, C Fonseca & D Rojas. Climatic-niche breadth, niche position, and
