@@ -36,9 +36,9 @@ Thank you for showing interest in my research!
         <td>7</td>
         <td>2025</td>
         <td>Stephens, PR, MJ Farrell, TJ Davies, JL Gittleman, S Meiri, <b>MO Moreira</b>, U Roll & JJ Wiens. Global diversity patterns are explained by diversification rates and dispersal at ancient, not shallow, timescales. <b><i>Systematic Biology</i></b>.</td>
-        <td> </td>
-        <td> </td>
-        <td> </td>
+        <td> <a href="https://doi.org/10.1093/sysbio/syaf018">DOI</a> </td>
+        <td> <div data-badge-type="donut" data-doi="10.1093/sysbio/syaf018" data-hide-no-mentions="true" class="altmetric-embed"></div> </td>
+        <td> <span class="__dimensions_badge_embed__" data-doi="10.1093/sysbio/syaf018" data-style="small_circle" data-hide-zero-citations="true" data-legend="hover-left"></span> </td>
     </tr>
     <tr>
         <td>6</td>
