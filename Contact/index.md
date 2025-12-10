@@ -14,7 +14,7 @@ ads: false
 <p align="center">
   <img src="images/me_circular.jpg" width="50%" height="50%">  <br><br>
   <b>Matthew Owen Moreira</b><br>
-  Post-Doctoral Fellow<br>
+  "On Standby"<br>
   <a href = "https://cibio.up.pt/en/people/details/matthew-moreira/">Associação BIOPOLIS | CIBIO-InBIO</a><br> 
   matthew.moreira "at" cibio.up.pt<br>
   &nbsp;<a href="https://www.linkedin.com/in/MatthewOM93/">Linkedin</a>&nbsp;
