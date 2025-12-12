@@ -42,10 +42,10 @@ share: true
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://cibio.up.pt/en/people/details/angelica-crottini/">Angelica Crottini</a></h2>
+  <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://www.cienciavitae.pt/portal/en/C716-06F7-11BE">Angelica Crottini</a></h2>
   <p align="center">
   <img src="images/Angelica.jpg" width="250">  <br> <br>
-  Auxiliary Researcher, BIOPOLIS | CIBIO-InBIO, Campus Universitário de Vairão (Portugal).
+  Associate Professor, Department of Biology, University of Florence (Italy).
   </p>
 </div><!-- /.tile -->
 
@@ -66,7 +66,7 @@ share: true
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://www.cibio.up.pt/en/people/details/rita-rocha/">Rita Rocha</a></h2>
+  <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://www.cienciavitae.pt/portal/en/5812-DAFA-088D">Rita Rocha</a></h2>
   <p align="center">
   <img src="images/placeholder.jpg" width="250">  <br> <br>
   Researcher, BIOPOLIS | CIBIO-InBIO, Campus Universitário de Vairão (Portugal).
