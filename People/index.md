@@ -21,7 +21,7 @@ share: true
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://rojasdanny.wordpress.com/people/">Danny Rojas</a></h2>
   <p align="center">
   <img src="images/Danny.jpg" width="250">  <br> <br>
-  Assistant Professor, Department of Natural Sciences and Mathematics, Pontificia Universidad Javeriana Cali (Colombia).
+  Associate Professor, Department of Natural Sciences and Mathematics, Pontificia Universidad Javeriana Cali (Colombia).
   </p>
 </div><!-- /.tile -->
 
