@@ -86,7 +86,7 @@ share: true
 <div style="clear: both;"></div>
 <hr style="visibility:hidden; margin:0; padding:0;">
 
-<br> <br> 
+<br>
 
 ### Students
 
