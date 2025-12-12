@@ -81,10 +81,17 @@ share: true
   </p>
 </div><!-- /.tile -->
 
+<div class="tile">
+  <h2 class="post-title" style="background-color:transparent; text-align:center; width:100%;">&nbsp;</h2>
+  <p align="center">
+    <img src="images/placeholder.jpg" width="250" style="opacity:0;"> <br><br>
+    &nbsp;
+  </p>
+</div><!-- /.tile -->
+
 </div><!-- /.tiles -->
 
-<br> <br> <br> <br>
-<br> <br> <br> <br>
+<br> <br> 
 
 ### Students
 
