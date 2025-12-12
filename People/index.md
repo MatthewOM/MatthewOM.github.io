@@ -81,15 +81,10 @@ share: true
   </p>
 </div><!-- /.tile -->
 
-<div class="tile">
-  <h2 class="post-title" style="background-color:transparent; text-align:center; width:100%;">&nbsp;</h2>
-  <p align="center">
-    <img src="images/placeholder.jpg" width="250" style="opacity:0;"> <br><br>
-    &nbsp;
-  </p>
-</div><!-- /.tile -->
-
 </div><!-- /.tiles -->
+
+<div style="clear: both;"></div>
+<hr style="visibility:hidden; margin:0; padding:0;">
 
 <br> <br> 
 
