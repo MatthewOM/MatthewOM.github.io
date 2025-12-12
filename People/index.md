@@ -50,7 +50,7 @@ share: true
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://www.cienciavitae.pt/portal/en/581B-7ED8-3A0F">Eduardo Ferreira</a></h2>
+  <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://www.cesam-la.pt/elferreira/">Eduardo Ferreira</a></h2>
   <p align="center">
   <img src="images/Eduardo.jpg" width="250">  <br> <br>
   Assistant Researcher, CESAM & Department of Biology, University of Aveiro (Portugal).
@@ -58,7 +58,7 @@ share: true
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://www.cienciavitae.pt/portal/en/8610-54AB-874A">Carlos Fonseca</a></h2>
+  <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://www.cesam-la.pt/cfonseca/">Carlos Fonseca</a></h2>
   <p align="center">
   <img src="images/Carlos.jpg" width="250">  <br> <br>
   Full Professor, Department of Biology, University of Aveiro (Portugal).
@@ -73,8 +73,12 @@ share: true
   </p>
 </div><!-- /.tile -->
 
-<!-- Blank Tile -->
-<div class="tile" style="height: 450px;"> <!-- Adjust height as needed -->
+<div class="tile">
+  <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://www.cesam-la.pt/asoares/">Amadeu Soares</a></h2>
+  <p align="center">
+  <img src="images/placeholder.jpg" width="250">  <br> <br>
+  Full Professor & Head of CESAM, Department of Biology, University of Aveiro (Portugal).
+  </p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
