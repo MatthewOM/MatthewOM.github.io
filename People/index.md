@@ -65,9 +65,14 @@ share: true
   </p>
 </div><!-- /.tile -->
 
-<!-- Blank Tile -->
-<div class="tile" style="height: 450px;"> <!-- Adjust height as needed -->
+<div class="tile">
+  <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://www.cibio.up.pt/en/people/details/rita-rocha/">Rita Rocha</a></h2>
+  <p align="center">
+  <img src="images/placeholder.jpg" width="250">  <br> <br>
+  Researcher, BIOPOLIS | CIBIO-InBIO, Campus Universitário de Vairão (Portugal).
+  </p>
 </div><!-- /.tile -->
+
 <!-- Blank Tile -->
 <div class="tile" style="height: 450px;"> <!-- Adjust height as needed -->
 </div><!-- /.tile -->
