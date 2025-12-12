@@ -73,6 +73,14 @@ share: true
   </p>
 </div><!-- /.tile -->
 
+<!-- Blank Tile -->
+<div class="tile" style="height: 450px;"> <!-- Adjust height as needed -->
+</div><!-- /.tile -->
+
+<!-- Blank Tile -->
+<div class="tile" style="height: 450px;"> <!-- Adjust height as needed -->
+</div><!-- /.tile -->
+
 </div><!-- /.tiles -->
 
 <br> <br>
