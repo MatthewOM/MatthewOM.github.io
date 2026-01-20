@@ -111,7 +111,7 @@ share: true
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline">Angélica Bolzan</h2>
   <p align="center">
-  <img src="images/placeholder.jpg" width="250">  <br> <br>
+  <img src="images/AngelicaBolzan.jpg" width="250">  <br> <br>
   PhD student, Centro de Ciências Humanas e Naturais, UFES (Brazil).
   </p>
 </div><!-- /.tile -->
