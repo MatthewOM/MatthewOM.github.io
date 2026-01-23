@@ -16,6 +16,6 @@ share: true
 <iframe src="https://drive.google.com/file/d/1Eskq7wfhCVMogtwm3txBaeI2WnvHZcPE/preview" width="1000" height="800"></iframe>
 
 <p align="center">
-  <b>Updated in December, 2025</b><br>
+  <b>Updated in January, 2026</b><br>
   <b>  </b><br>
 </p>
