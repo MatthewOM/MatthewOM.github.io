@@ -35,7 +35,7 @@ Thank you for showing interest in my research!
     <tr>
         <td>8</td>
         <td>2026</td>
-        <td><b>Moreira, MO</b>, MJ Paúl, AV Liz, AC Carnaval, BC Carstens, SB Carvalho. Spatial patterns of intraspecific genetic diversity follow no general rule across climatic and geographic gradients. <b><i>Molecular Ecology</i></b>.</td>
+        <td><b>Moreira, MO</b>, MJ Paúl, AV Liz, AC Carnaval, BC Carstens, SB Carvalho. Spatial patterns of intraspecific genetic diversity follow no general rule across climatic and geographic gradients. <b><i>Molecular Ecology</i></b>, 35(6): e70321.</td>
         <td> <a href="https://doi.org/10.1111/mec.70321">DOI</a> </td>
         <td> <div data-badge-type="donut" data-doi="10.1111/mec.70321" data-hide-no-mentions="true" class="altmetric-embed"></div> </td>
         <td> <span class="__dimensions_badge_embed__" data-doi="10.1111/mec.70321" data-style="small_circle" data-hide-zero-citations="true" data-legend="hover-left"></span> </td>
