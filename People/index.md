@@ -68,7 +68,7 @@ share: true
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://www.cienciavitae.pt/portal/en/5812-DAFA-088D">Rita Rocha</a></h2>
   <p align="center">
-  <img src="images/placeholder.jpg" width="250">  <br> <br>
+  <img src="images/Rita.jpg" width="250">  <br> <br>
   Researcher, BIOPOLIS | CIBIO-InBIO, Campus Universitário de Vairão (Portugal).
   </p>
 </div><!-- /.tile -->
