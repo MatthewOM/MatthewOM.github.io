@@ -14,7 +14,7 @@ ads: false
 <p align="center">
   <img src="images/me_circular.jpg" width="50%" height="50%">  <br><br>
   <b>Matthew Owen Moreira</b><br>
-  "On Standby"<br>
+  Invited Researcher<br>
   <a href = "">CESAM | Universidade de Aveiro</a><br> 
   matthew.moreira "at" ua.pt<br>
   &nbsp;<a href="https://www.linkedin.com/in/MatthewOM93/">Linkedin</a>&nbsp;
