@@ -20,7 +20,7 @@ image:
 <div class="tile">
   <h2 class="post-title" style="background-color:lightseagreen; text-align: center; width: 150%;" itemprop="headline">Recent visitors!</h2>
   <p class="post-excerpt" align="center" style="width: 150%;">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=16cNhcaO2c5y9CILCVQbE_hmTR0J7JUjPIoMB9gcdls&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=RREBHiM8BuzZqSy8DG_UwBmE-Bo52LCkqySvuCTkGyU&cl=ffffff&w=a"></script>
 </p>
 </div><!-- /.tile -->
 
